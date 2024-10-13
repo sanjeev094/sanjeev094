@@ -21,4 +21,4 @@ I'm a learner in web development and data structures and algorithms (DSA) with a
 - Email: [sanjeev.singh@walchandsangli.ac.in](sanjeev.singh@walchandsangli.ac.in)
 - LinkedIn: [Sanjeev Singh]([link](https://www.linkedin.com/in/sanjeev-singh-011293292/))
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical)
