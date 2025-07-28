@@ -12,7 +12,7 @@
 - 🔭 I'm exploring **web development, machine learning**, and **open source**
 - 🌱 Currently learning **DSA, Python, and full-stack development**
 - 💬 Ask me about **Java, Python, and web dev basics**
-- 📫 Reach me at: [sanjeev.singh@walchandsangli.ac.in] (replace with your real email)
+- 📫 Reach me at: [sanjeev.singh@walchandsangli.ac.in] 
 - ⚡ Fun fact: I love solving problems and building side projects in my free time!
 
 ---
