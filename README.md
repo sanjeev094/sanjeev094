@@ -1,54 +1,118 @@
-<h1 align="center">Hi 👋, I'm a CSE B.Tech Student</h1>
+<h1 align="center">👋 Hi, I'm Sanjeev Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=3rd+Year+CSE+Student;Aspiring+Software+Developer;Passionate+about+Tech+%26+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Redux+Toolkit;AI+%26+ML+Explorer;3rd+Year+CSE+Student;Passionate+about+Building+%26+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+### 👨‍💻 About Me
 
-- 🎓 I'm a **3rd-year B.Tech student** in **Computer Science and Engineering**
-- 🔭 I'm exploring **web development, machine learning**, and **open source**
-- 🌱 Currently learning **DSA, Python, and full-stack development**
-- 💬 Ask me about **Java, Python, and web dev basics**
-- 📫 Reach me at: [sanjeev.singh@walchandsangli.ac.in] 
-- ⚡ Fun fact: I love solving problems and building side projects in my free time!
+- 🎓 **3rd-year B.Tech (CSE)** student at **Walchand College of Engineering, Sangli**
+- 💻 Skilled in **MERN Stack**, **Next.js**, **Redux Toolkit**, and **TypeScript**
+- 🤖 Currently exploring **Machine Learning** using Python, NumPy, Pandas & scikit-learn
+- 🧠 Strong foundation in **DSA, OOP, and Databases**
+- 🚀 I love building **scalable full-stack apps**, experimenting with **AI-powered features**, and contributing to **open source**
+- 🌐 Portfolio: [sanjeev-portfolio-ochre.vercel.app](https://sanjeev-portfolio-ochre.vercel.app)
+- 📫 Reach me at: **[sanjeev.singh@walchandsangli.ac.in](mailto:sanjeev.singh@walchandsangli.ac.in)**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-<p>
+#### 💻 Programming Languages
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+</p>
+
+#### 🌐 Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-111111?style=flat&logo=shadcnui&logoColor=white" />
+</p>
+
+#### 🧠 Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**GoCart**](https://06-gocart.vercel.app) | Multi-vendor e-commerce platform with Stripe payments and real-time automation. | Next.js, Prisma, Neon, Redux Toolkit, Clerk, Inngest |
+| [**Stock Market App**](https://07-stock-app.vercel.app/sign-in) | AI-powered stock tracker with live market insights and analytics dashboard. | Next.js, TypeScript, MongoDB, Inngest, TailwindCSS |
+| [**MERN Auth App**](https://auth-mern-frontend-abfe7h9sr-sanjeev094s-projects.vercel.app) | Full-stack JWT authentication with secure routes and MongoDB backend. | MERN Stack |
+| [**Portfolio Website**](https://sanjeev-portfolio-ochre.vercel.app) | Personal portfolio showcasing projects, skills, and achievements. | Next.js, TailwindCSS, Framer Motion |
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical" alt="your github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev094&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjeev094&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🏆 Achievements
 
-<p>
-  <a href="[https://www.linkedin.com/in/sanjeev-singh-011293292/]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:sanjeev.singh@walchandsangli.ac.in"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+- 🥈 Finalist — **ACM Hackathon 2024** for innovative solution design  
+- 💡 Solved **200+ problems** on **GeeksforGeeks** and **LeetCode**  
+- ⭐ **LeetCode Rating:** 1526 | **CodeChef Rating:** 1510  
+- 🎓 **Oracle AI Foundations Certified** | **IBM SkillsBuild Web Dev** | **Udemy Web Dev Bootcamp**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeev-singh-011293292/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:sanjeev.singh@walchandsangli.ac.in">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sanjeev094">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
+  </a>
+  <a href="https://sanjeev-portfolio-ochre.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐️ _Thanks for visiting my GitHub profile!_
+⭐ _Thanks for visiting my GitHub profile!_  
+💡 _“Code. Learn. Build. Repeat.”_
