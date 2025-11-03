@@ -88,15 +88,18 @@
 
 ---
 
+
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjeev094&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sanjeev094&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 ---
 
