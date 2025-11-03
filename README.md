@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sanjeev Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Redux+Toolkit;AI+%26+ML+Explorer;3rd+Year+CSE+Student;Passionate+about+Building+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Redux+Toolkit;AI+%26+ML+Explorer;Competitive+Programmer;3rd+Year+CSE+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,11 +10,25 @@
 
 - 🎓 **3rd-year B.Tech (CSE)** student at **Walchand College of Engineering, Sangli**
 - 💻 Skilled in **MERN Stack**, **Next.js**, **Redux Toolkit**, and **TypeScript**
-- 🤖 Currently exploring **Machine Learning** using Python, NumPy, Pandas & scikit-learn
-- 🧠 Strong foundation in **DSA, OOP, and Databases**
-- 🚀 I love building **scalable full-stack apps**, experimenting with **AI-powered features**, and contributing to **open source**
+- 🤖 Exploring **Machine Learning** (Python, NumPy, Pandas, scikit-learn)
+- 🧠 Strong in **Data Structures, Algorithms, and OOP**
+- 🚀 I love building **full-stack web apps**, working with **AI/ML**, and **competitive programming**
 - 🌐 Portfolio: [sanjeev-portfolio-ochre.vercel.app](https://sanjeev-portfolio-ochre.vercel.app)
 - 📫 Reach me at: **[sanjeev.singh@walchandsangli.ac.in](mailto:sanjeev.singh@walchandsangli.ac.in)**
+
+---
+
+### 🧮 Competitive Programming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-2⭐-orange?style=flat&logo=codechef" />
+  <img src="https://img.shields.io/badge/LeetCode-1556-brightgreen?style=flat&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Codeforces-1113-blue?style=flat&logo=codeforces" />
+</p>
+
+- 🧩 **Solved 200+ problems** across platforms including **LeetCode**, **CodeChef**, **Codeforces**, and **GeeksforGeeks**  
+- ⚡ Regular participant in **online contests & hackathons**  
+- 🥈 **ACM Hackathon 2024 Finalist** — recognized for innovative solution design  
 
 ---
 
@@ -67,10 +81,10 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**GoCart**](https://06-gocart.vercel.app) | Multi-vendor e-commerce platform with Stripe payments and real-time automation. | Next.js, Prisma, Neon, Redux Toolkit, Clerk, Inngest |
-| [**Stock Market App**](https://07-stock-app.vercel.app/sign-in) | AI-powered stock tracker with live market insights and analytics dashboard. | Next.js, TypeScript, MongoDB, Inngest, TailwindCSS |
-| [**MERN Auth App**](https://auth-mern-frontend-abfe7h9sr-sanjeev094s-projects.vercel.app) | Full-stack JWT authentication with secure routes and MongoDB backend. | MERN Stack |
-| [**Portfolio Website**](https://sanjeev-portfolio-ochre.vercel.app) | Personal portfolio showcasing projects, skills, and achievements. | Next.js, TailwindCSS, Framer Motion |
+| [**GoCart**](https://06-gocart.vercel.app) | Multi-vendor e-commerce platform with Stripe payments & automation using Inngest. | Next.js, Prisma, Neon, Redux Toolkit, Clerk, TailwindCSS |
+| [**Stock Market App**](https://07-stock-app.vercel.app/sign-in) | AI-powered stock tracker with live analytics & auth system. | Next.js, TypeScript, MongoDB, Inngest, TailwindCSS |
+| [**MERN Auth App**](https://auth-mern-frontend-abfe7h9sr-sanjeev094s-projects.vercel.app) | Full-stack JWT authentication app with secure routes. | MongoDB, Express, React, Node.js |
+| [**Portfolio Website**](https://sanjeev-portfolio-ochre.vercel.app) | Personal portfolio showcasing skills, projects & achievements. | Next.js, TailwindCSS, Framer Motion |
 
 ---
 
@@ -88,10 +102,10 @@
 
 ### 🏆 Achievements
 
-- 🥈 Finalist — **ACM Hackathon 2024** for innovative solution design  
-- 💡 Solved **200+ problems** on **GeeksforGeeks** and **LeetCode**  
-- ⭐ **LeetCode Rating:** 1526 | **CodeChef Rating:** 1510  
-- 🎓 **Oracle AI Foundations Certified** | **IBM SkillsBuild Web Dev** | **Udemy Web Dev Bootcamp**
+- 🥈 Finalist — **ACM Hackathon 2024**
+- 🧩 Solved **200+ coding problems** across **LeetCode**, **CodeChef**, **Codeforces**, and **GfG**
+- ⭐ **LeetCode Rating:** 1556 | **CodeChef:** 2⭐ (Rating 1556) | **Codeforces:** 1113
+- 🎓 **Oracle AI Foundations Certified**, **IBM Web Dev Certified**, **Udemy Web Dev Bootcamp**
 
 ---
 
