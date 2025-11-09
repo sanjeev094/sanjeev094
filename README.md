@@ -5,9 +5,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev094&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 
 ---
@@ -104,6 +102,9 @@
   <img src="https://streak-stats.demolab.com?user=sanjeev094&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+
+  <img src="https://komarev.com/ghpvc/?username=sanjeev094&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
 </p>
 
 
