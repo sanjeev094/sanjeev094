@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Redux+Toolkit;AI+%26+ML+Explorer;Competitive+Programmer;3rd+Year+CSE+Student" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjeev094&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
 ---
 
 ### 👨‍💻 About Me
