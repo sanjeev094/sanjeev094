@@ -107,22 +107,29 @@ A smart agriculture system built using **ML, DL, and MERN stack** to help apple 
 🔗 https://sebsmart.vercel.app/  
 ⭐ *If you're interested in AI + Agriculture, stay tuned!*
 
-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=sanjeev094&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-
-  <img src="https://komarev.com/ghpvc/?username=sanjeev094&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sanjeev094&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjeev094&label=Profile%20Views&color=ff0055&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/sanjeev094/sanjeev094/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev094&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 ### 🏆 Achievements
 
