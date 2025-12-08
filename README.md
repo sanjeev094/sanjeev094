@@ -92,6 +92,20 @@
 
 ---
 
+### 🍎 SebSmart — AI-Powered Apple Farming Platform
+
+A smart agriculture system built using **ML, DL, and MERN stack** to help apple farmers with:
+
+- 🐛 Pest & disease detection (CNN + Computer Vision)
+- 📈 Yield prediction using ML models
+- 🍏 Growth tracking with image-based analysis
+- 🌦 Smart dashboard for alerts, insights & recommendations
+
+🛠️ **Tech:** React, Node.js, MongoDB, TensorFlow/PyTorch, OpenCV  
+📍 **Goal:** Make farming data-driven, efficient & sustainable.
+
+🔗 https://sebsmart.vercel.app/  
+⭐ *If you're interested in AI + Agriculture, stay tuned!*
 
 
 ### 📊 GitHub Analytics
@@ -114,7 +128,7 @@
 
 - 🥈 Finalist — **ACM Hackathon 2024**
 - 🧩 Solved **200+ coding problems** across **LeetCode**, **CodeChef**, **Codeforces**, and **GfG**
-- ⭐ **LeetCode Rating:** 1556 | **CodeChef:** 2⭐ (Rating 1556) | **Codeforces:** 1113
+- ⭐ **LeetCode Rating:** 1616 | **CodeChef:** 2⭐ (Rating 1519) | **Codeforces:** 1113
 - 🎓 **Oracle AI Foundations Certified**, **IBM Web Dev Certified**, **Udemy Web Dev Bootcamp**
 
 ---
