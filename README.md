@@ -159,5 +159,9 @@ A smart agriculture system built using **ML, DL, and MERN stack** to help apple 
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sanjeev094/sanjeev094/blob/output/github-contribution-grid-snake.svg)
+
 ⭐ _Thanks for visiting my GitHub profile!_  
 💡 _“Code. Learn. Build. Repeat.”_
