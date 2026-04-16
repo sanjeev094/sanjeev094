@@ -1,159 +1,132 @@
 <h1 align="center">👋 Hi, I'm Sanjeev Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Redux+Toolkit;AI+%26+ML+Explorer;Competitive+Programmer;3rd+Year+CSE+Student" alt="Typing SVG" />
+  🚀 Full Stack Developer | 🧠 AI/ML Explorer | 💻 Competitive Programmer
 </p>
 
-
-
-
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **3rd-year B.Tech (CSE)** student at **Walchand College of Engineering, Sangli**
-- 💻 Skilled in **MERN Stack**, **Next.js**, **Redux Toolkit**, and **TypeScript**
-- 🤖 Exploring **Machine Learning** (Python, NumPy, Pandas, scikit-learn)
-- 🧠 Strong in **Data Structures, Algorithms, and OOP**
-- 🚀 I love building **full-stack web apps**, working with **AI/ML**, and **competitive programming**
-- 🌐 Portfolio: [sanjeev-portfolio-ochre.vercel.app](https://sanjeev-portfolio-ochre.vercel.app)
-- 📫 Reach me at: **[sanjeev.singh@walchandsangli.ac.in](mailto:sanjeev.singh@walchandsangli.ac.in)**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;AI+%26+ML+Explorer;Competitive+Programmer;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
-### 🧮 Competitive Programming
+## 🧑‍💻 About Me
+
+- 🎓 3rd-year **B.Tech CSE** @ Walchand College of Engineering  
+- 💻 Building scalable **Full Stack Applications (MERN + Next.js)**  
+- 🤖 Exploring **Machine Learning & AI Systems**  
+- 🧠 Strong in **DSA, OOP & Problem Solving**  
+- ⚡ Love **competitive programming & real-world projects**  
+
+---
+
+## 🔭 What I'm Currently Working On
+
+- 🚀 Advanced **Next.js + System Design Projects**
+- 🤖 **Machine Learning models** (real-world datasets)
+- 🐳 Learning **Docker & Backend Scaling**
+- 📊 Improving **DSA (LeetCode + Codeforces)**
+
+---
+
+## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-2⭐-orange?style=flat&logo=codechef" />
   <img src="https://img.shields.io/badge/LeetCode-1556-brightgreen?style=flat&logo=leetcode" />
+  <img src="https://img.shields.io/badge/CodeChef-2⭐-orange?style=flat&logo=codechef" />
   <img src="https://img.shields.io/badge/Codeforces-1113-blue?style=flat&logo=codeforces" />
 </p>
 
-- 🧩 **Solved 200+ problems** across platforms including **LeetCode**, **CodeChef**, **Codeforces**, and **GeeksforGeeks**  
-- ⚡ Regular participant in **online contests & hackathons**  
-- 🥈 **ACM Hackathon 2024 Finalist** — recognized for innovative solution design  
+- 🧩 Solved **200+ problems**
+- ⚡ Active in **contests & hackathons**
+- 🥈 **ACM Hackathon 2024 Finalist**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-</p>
+### 💻 Languages
+C | C++ | Python | JavaScript | TypeScript  
 
-#### 🌐 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-111111?style=flat&logo=shadcnui&logoColor=white" />
-</p>
+### 🌐 Web
+React | Next.js | Redux Toolkit | Node.js | Express | MongoDB | PostgreSQL | Prisma  
 
-#### 🧠 Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-</p>
+### 🧠 ML
+NumPy | Pandas | scikit-learn | OpenCV | TensorFlow  
 
-#### ⚙️ Tools & Platforms
+### ⚙️ Tools
+Git | GitHub | Docker | Vercel | Figma  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 GoCart
+Multi-vendor e-commerce platform with payments & automation  
+**Tech:** Next.js, Prisma, Redux Toolkit, Stripe  
+
+### 📈 Stock Market App
+AI-powered stock tracking dashboard  
+**Tech:** Next.js, MongoDB, TypeScript  
+
+### 🔐 MERN Auth App
+JWT authentication system with secure routes  
+**Tech:** MERN Stack  
+
+### 🌐 Portfolio
+Personal website showcasing work & achievements  
+🔗 https://sanjeev-portfolio-ochre.vercel.app  
+
+---
+
+## 🍎 SebSmart (AI + Agriculture 🚀)
+
+- 🐛 Pest detection using CNN  
+- 📈 Yield prediction models  
+- 🌦 Smart farming dashboard  
+
+**Tech:** MERN + ML + OpenCV  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=sanjeev094&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🏆 Achievements
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**GoCart**](https://06-gocart.vercel.app) | Multi-vendor e-commerce platform with Stripe payments & automation using Inngest. | Next.js, Prisma, Neon, Redux Toolkit, Clerk, TailwindCSS |
-| [**Stock Market App**](https://07-stock-app.vercel.app/sign-in) | AI-powered stock tracker with live analytics & auth system. | Next.js, TypeScript, MongoDB, Inngest, TailwindCSS |
-| [**MERN Auth App**](https://auth-mern-frontend-abfe7h9sr-sanjeev094s-projects.vercel.app) | Full-stack JWT authentication app with secure routes. | MongoDB, Express, React, Node.js |
-| [**Portfolio Website**](https://sanjeev-portfolio-ochre.vercel.app) | Personal portfolio showcasing skills, projects & achievements. | Next.js, TailwindCSS, Framer Motion |
+- 🥈 ACM Hackathon Finalist  
+- ⭐ LeetCode: 1616  
+- ⭐ CodeChef: 2⭐  
+- 🎓 Oracle AI + IBM Certified  
 
 ---
 
-### 🍎 SebSmart — AI-Powered Apple Farming Platform
+## 🎯 Goals for 2026
 
-A smart agriculture system built using **ML, DL, and MERN stack** to help apple farmers with:
-
-- 🐛 Pest & disease detection (CNN + Computer Vision)
-- 📈 Yield prediction using ML models
-- 🍏 Growth tracking with image-based analysis
-- 🌦 Smart dashboard for alerts, insights & recommendations
-
-🛠️ **Tech:** React, Node.js, MongoDB, TensorFlow/PyTorch, OpenCV  
-📍 **Goal:** Make farming data-driven, efficient & sustainable.
-
-🔗 https://sebsmart.vercel.app/  
-⭐ *If you're interested in AI + Agriculture, stay tuned!*
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev094&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sanjeev094&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev094&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev094&label=Profile%20Views&color=ff0055&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/sanjeev094/sanjeev094/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev094&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-
-### 🏆 Achievements
-
-- 🥈 Finalist — **ACM Hackathon 2024**
-- 🧩 Solved **200+ coding problems** across **LeetCode**, **CodeChef**, **Codeforces**, and **GfG**
-- ⭐ **LeetCode Rating:** 1616 | **CodeChef:** 2⭐ (Rating 1519) | **Codeforces:** 1113
-- 🎓 **Oracle AI Foundations Certified**, **IBM Web Dev Certified**, **Udemy Web Dev Bootcamp**
+- 🚀 Crack **top tech internships**
+- 🧠 Master **System Design + Backend**
+- 🤖 Build **impactful AI projects**
+- 🏆 Reach **1900+ LeetCode rating**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjeev-singh-011293292/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
   <a href="mailto:sanjeev.singh@walchandsangli.ac.in">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" />
   </a>
   <a href="https://github.com/sanjeev094">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
-  </a>
-  <a href="https://sanjeev-portfolio-ochre.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
   </a>
 </p>
 
@@ -163,5 +136,13 @@ A smart agriculture system built using **ML, DL, and MERN stack** to help apple 
 
 ![snake gif](https://github.com/sanjeev094/sanjeev094/blob/output/github-contribution-grid-snake.svg)
 
-⭐ _Thanks for visiting my GitHub profile!_  
-💡 _“Code. Learn. Build. Repeat.”_
+---
+
+## ✨ Fun Fact
+
+> I enjoy turning complex problems into simple, scalable solutions 💡
+
+---
+
+⭐ _Thanks for visiting my profile!_  
+💡 _Code. Learn. Build. Repeat._
