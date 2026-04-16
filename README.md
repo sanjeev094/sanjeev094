@@ -48,7 +48,7 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-1616-brightgreen?style=flat&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-1841-brightgreen?style=flat&logo=leetcode" />
   <img src="https://img.shields.io/badge/CodeChef-2⭐-orange?style=flat&logo=codechef" />
   <img src="https://img.shields.io/badge/Codeforces-1113-blue?style=flat&logo=codeforces" />
 </p>
