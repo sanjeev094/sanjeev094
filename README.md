@@ -62,7 +62,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sanjeev094?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/sanjeev0094?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
